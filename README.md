@@ -29,7 +29,7 @@ Extensive evaluations demonstrate that UltraShape 1.0 performs competitively wit
 
 ## 🔥 News
 * **[2025-12-25]** 📄 We released the technical report of **UltraShape 1.0** on arXiv.
-* **[Coming Soon]** 🚀 Training code and pre-trained models will be released soon. Stay tuned!
+* **[Coming Soon]** 🚀 Training code and pre-trained models will be released soon. Stay tuned! (ETA: 12.26)
 
 ## 🗓️ To-Do List
 - [ ] Release inference code
