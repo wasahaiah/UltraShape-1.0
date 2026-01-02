@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <h1>UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement</h1>
 
